@@ -1,0 +1,15 @@
+The PERFECT stands for PERFormance Effort Calculating Tool. It comprises of
+ 
+1. Script efforts input section.
+2. Execution efforts input section and
+3. Tool setup efforts input section.
+ 
+Filling in all the input section in "white" fields and clicking on the "Estimate" button would trigger the Estimating engine that 
+would provide us the Total effort estimate required in Hours, Man days and Weeks. The final estimate will be stored on Desktop as .pdf file.
+ 
+Built on ~ 2700 + lines of code, sharing the PERFECT for SAP tool so that it can be leveraged by other projects, if they have a need.
+ 
+[Kind Note: The numbers are rounded to the nearest integer. Hence Performance Test Managers and Leads are requested to have 
+this in mind while sharing the data with clients]
+
+Supported Operating System: Windows
